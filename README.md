@@ -23,11 +23,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:ridhwanfnp@gmail.com' style="color:#14213D;">ridhwanfnp@gmail.com</a>
-</p>
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=oneraid&show_icons=true&bg_color=000000&title_color=FCA311&text_color=E5E5E5&icon_color=FFFFFF&border_color=14213D" alt="Saksham's github stats" />
+  📫 How to reach me: <a href='mailto:ridhwanfnp@gmail.com' style="color:#FCA311;">ridhwanfnp@gmail.com</a>
 </p>
 
 <p align="center"> 
