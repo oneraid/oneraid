@@ -1,57 +1,36 @@
 <h1 align='center'>
-  Hi there 👋 I'm Ridhwan Firdaus
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there+%F0%9F%91%8B;I'm+Ridhwan+Firdaus" width="100%" />
+
 </h1>
 
-<p align='center'>
-  A Student 
-</p>
+<div align="center" style="margin-bottom: 20px;">
+  <img align="center" height="150" src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif"  />
+</div>
 
-<!-- <p align='center'>
-  
- <a href="https://www.facebook.com/mr.94t3z">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />        
- </a>&nbsp;&nbsp;
- 
- <a href="https://www.instagram.com/m.taopik_/">
-  <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> 
- </a>&nbsp;&nbsp;
- 
- <a href="https://www.linkedin.com/in/muhamad-taopik-8b0746174">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>&nbsp;&nbsp;
- 
- <a href="https://twitter.com/mr94t3z">
-  <img src="https://img.shields.io/twitter/follow/mr94t3z?color=1DA1F2&logo=twitter&style=for-the-badge" />
- </a>&nbsp;&nbsp;
-  
-</p>
--->
-
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://www.linkedin.com/in/ridhwanfnp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ridhwanfv/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=oneraid&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ASUS&color=000000&logo=Windows&logoColor=FFFFFF&label=WINDOWS" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Chip&color=000000&logo=Intel&logoColor=FFFFFF&label=CORE I7" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ram&color=000000&logo=Ram&logoColor=FFFFFF&label=8GB" />
+  <img src="https://komarev.com/ghpvc/?username=oneraid&label=Stalker&color=129e00&style=plastic" alt="oneraid" />
+  <br>
 </p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:ridhwanfnp@gmail.com'>ridhwanfnp@gmail.com</a>
 </p>
 
-<p align='center'>
-  <img src="https://komarev.com/ghpvc/?username=oneraid&label=Stalker&color=129e00&style=plastic" alt="oneraid" />
-  <br>
-  <!-- <a href="#"><img src="https://badges.pufler.dev/visits/mr94t3z/mr94t3z"></a> total of stalkers. -->
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=oneraid&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
 </p>
-
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
+</p>
 <p align='center'>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oneraid&theme=dark" alt="oneraid" />
-</p>
-
-<p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneraid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top-langs" />
 </p>
