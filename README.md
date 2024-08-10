@@ -1,10 +1,12 @@
 <h1 align='center'>
   <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=FCA311&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hi+there+%F0%9F%91%8B;I'm+Ridhwan+Firdaus" width="100%" />
 </h1>
+<br>
 
 <div align="center" style="margin-bottom: 20px;">
   <img align="center" height="150" src="https://media.tenor.com/YOphBzO0MfoAAAAi/japanese-animation.gif"  />
 </div>
+<br>
 
 <div align="center" style="margin-bottom: 30px;">
   <a href="https://www.linkedin.com/in/ridhwanfnp/" target="_blank">
@@ -17,6 +19,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" style="fill:#14213D;" />
   </a>
 </div>
+<br>
 
 <p align='center'>
   <img src="https://komarev.com/ghpvc/?username=oneraid&label=Stalker&color=FCA311&style=plastic" alt="oneraid" />
