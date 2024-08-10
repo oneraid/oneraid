@@ -1,4 +1,4 @@
-<h1 align='center'>
+d<h1 align='center'>
   Hi there 👋 I'm Ridhwan Firdaus
 </h1>
 
@@ -53,5 +53,5 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffanSurya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oneraid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top-langs" />
 </p>
