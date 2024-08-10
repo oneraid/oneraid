@@ -31,7 +31,6 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=oneraid&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=ASUS&color=000000&logo=Windows&logoColor=FFFFFF&label=WINDOWS" />
@@ -53,5 +52,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oneraid&theme=dark" alt="oneraid" />
 </p>
 
-<details>
-  <summary>📃 Resume</summary>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AffanSurya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top-langs" />
+</p>
