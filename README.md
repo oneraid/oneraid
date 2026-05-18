@@ -6,7 +6,7 @@
 
 <br/>
 
-**Full-Stack Engineer · Solana DeFi · Trading Systems**
+**Males Ngoding · Tapi Tetep Ngoding · Entah Kenapa**
 
 <br/>
 
@@ -21,16 +21,18 @@
 
 ## 💫 About Me
 
-I build high-performance systems at the intersection of **DeFi**, **automation**, and **premium UI/UX**.
-Low-latency execution, real-time WebSockets, and clean dashboard experiences — that's my thing.
+Saya build apa yang saya mau, yang penting jadi — urusan bener apa ngga itu nanti dulu.
+Vibe coding dulu, refactor nanti, deploy sekarang, debug sambil nangis.
 
-**Currently cooking 🍳**
-- 🤖 **Charon** — LLM-driven automated Solana trading bot
-- 💧 **Meridian** — DLMM liquidity management bot for concentrated positions
+
+
+> *"It works on my machine"* — saya, selalu
 
 ---
 
 ## 🛠️ Tech Stack
+
+> hal-hal yang saya pakai sehari-hari dan kadang saya salahkan kalau ada bug
 
 <div align="center">
 
@@ -49,6 +51,14 @@ Low-latency execution, real-time WebSockets, and clean dashboard experiences —
 
 ## 📊 GitHub Stats
 
+> bukti bahwa saya ngoding jam 2 pagi bukan karena produktif tapi karena siang ketiduran
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oneraid&theme=dracula" width="100%" />
+
+</div>
+
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oneraid&theme=dark&ring=FCA311&fire=FCA311&currStreakLabel=FCA311&sideLabels=E5E5E5&dates=888888&background=0D0D0D&border=2D2D2D" />
@@ -65,6 +75,8 @@ Low-latency execution, real-time WebSockets, and clean dashboard experiences —
 
 ## 🏆 GitHub Trophies
 
+> penghargaan virtual karena penghargaan nyata belum dateng
+
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=oneraid&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" />
@@ -74,5 +86,5 @@ Low-latency execution, real-time WebSockets, and clean dashboard experiences —
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&duration=3000&pause=500&color=888888&center=true&vCenter=true&width=600&lines=Open+to+collabs+on+DeFi%2C+trading+systems%2C+and+web+apps+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=18&duration=3000&pause=500&color=888888&center=true&vCenter=true&width=700&lines=open+to+collab+%E2%80%94+asal+ada+kopi+dan+deadline+nya+fleksibel+%F0%9F%98%82" />
 </div>
