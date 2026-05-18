@@ -47,6 +47,14 @@ Vibe coding dulu, refactor nanti, deploy sekarang, debug sambil nangis.
 
 </div>
 
+### 📈 Most Used Languages
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oneraid&layout=compact&theme=dracula&hide_border=true&bg_color=0D0D0D&title_color=FCA311&text_color=E5E5E5&langs_count=8)](https://github.com/oneraid)
+
+</div>
+
 ---
 
 ## 📊 GitHub Stats
